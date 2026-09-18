@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# banco local (recriado toda vez que a API sobe)
+*.db
